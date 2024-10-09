@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<!--
- * ER/Studio Data Architect %s XML Schema Generation
- * Project:		DimensionalModelDemo.DM1
- * Date Created:	9/17/2024
--->
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"/>
